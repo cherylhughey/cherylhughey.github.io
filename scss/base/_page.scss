@@ -9,14 +9,14 @@ p {
 }
 
 a {
-  color: $primary;
+  color: orange;
   &:hover {
     color: darken($primary, 10%);
   }
 }
 
 .text-primary {
-  color: $primary !important;
+  color: darken($primary, 80%)!important;
 }
 
 h1,

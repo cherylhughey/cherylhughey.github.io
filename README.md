@@ -1,4 +1,2 @@
-# Page down for maintenance
-
-🏗️
+# Page down for maintenance 🏗️
 

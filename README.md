@@ -1,2 +1,2 @@
-# Page down for maintenance 🏗️
+# This page is down for maintenance. 🏗️
 
